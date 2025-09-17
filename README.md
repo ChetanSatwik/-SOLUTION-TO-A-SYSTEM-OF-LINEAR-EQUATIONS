@@ -15,6 +15,9 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```python
+#Program to find the solution for the given linear equations.
+#Developed by: NALLAMALLI VENKATA CHETAN SATWIK 
+#RegisterNumber: 212224240100
 import numpy as np
 A=[[1,3],[2,5]]
 B=np.array([5,-3])
